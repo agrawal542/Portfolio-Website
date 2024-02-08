@@ -14,4 +14,5 @@ General steps to follow to build a simple website :
 
 5. Redesign each part as per requirement!
 
-Deployed website : https://kritikmodi.netlify.app
+Deployed website : [https://kritikmodi.netlify.app
+](https://agrawal542.github.io/portfolio-gautam-agrawal/)https://agrawal542.github.io/portfolio-gautam-agrawal/
