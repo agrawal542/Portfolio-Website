@@ -25,7 +25,7 @@ Welcome to my developer portfolio! This project showcases my skills, projects, a
 
 ## 📩 Contact  
 
-📧 Email: your.email@example.com  
+📧 Email: gautamagrawal542@gmail.com  
 🔗 LinkedIn: [Gautam Agrawal](https://www.linkedin.com/in/gautam-agrawal-563739227/)  
 
 Feel free to explore my portfolio and reach out! 🚀  
