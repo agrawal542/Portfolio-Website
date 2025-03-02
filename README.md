@@ -1,17 +1,31 @@
-# My Developer Portfolio :)
+# 🌟 My Developer Portfolio  
 
-### Built using HTML, CSS & Javascript!
+## 🚀 Built with HTML, CSS & JavaScript  
 
-General steps to follow to build a simple website :
+Welcome to my developer portfolio! This project showcases my skills, projects, and experience in web development.  
 
-1. Figure out a rough design of what you want to build.
+## 🔧 Steps to Build a Simple Website  
 
-2. Implement a framework in HTML.
+1. **Plan the Design** – Sketch out a rough layout of the website.  
+2. **Structure with HTML** – Implement the basic framework and components.  
+3. **Style with CSS** – Choose colors, fonts, and other design elements.  
+4. **Enhance with JavaScript** – Add interactivity where needed.  
+5. **Iterate & Improve** – Refine each section to enhance user experience.  
 
-3. Decide its colors and other design features and implement those in CSS.
+## 🌍 Deployed Website  
 
-4. Code the backend in Javascript wherever required.
+- 🔗 [Portfolio Website](https://agrawal542.github.io/Portfolio-Website/)  
 
-5. Redesign each part as per requirement!
+## 📌 Features  
 
-Deployed website :https://agrawal542.github.io/portfolio-gautam-agrawal/
+✅ Responsive Design  
+✅ Interactive UI  
+✅ Smooth Animations  
+✅ Optimized Performance  
+
+## 📩 Contact  
+
+📧 Email: your.email@example.com  
+🔗 LinkedIn: [Gautam Agrawal](https://www.linkedin.com/in/gautam-agrawal-563739227/)  
+
+Feel free to explore my portfolio and reach out! 🚀  
